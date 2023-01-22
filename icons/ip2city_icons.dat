@@ -1,0 +1,244 @@
+A2,Satellite link,./icons/a2.png
+AD,Andorra,./icons/ad.png
+AE,United Arab Emirates,./icons/ae.png
+AF,Afganistan,./icons/af.png
+AG,,./icons/ag.png
+AI,Anguilla,./icons/ai.png
+AL,Albania,./icons/al.png
+AM,Armenia,./icons/am.png
+AN,Netherlands Antilles,./icons/an.png
+AO,Angola,./icons/ao.png
+AR,Argentina,./icons/ar.png
+AS,American Samoa,./icons/as.png
+AT,Austria,./icons/at.png
+AU,Australia,./icons/au.png
+AW,Aruba,./icons/aw.png
+AX,Aland Islands,./icons/ax.png
+AZ,Azerbaijan,./icons/az.png
+BA,Bosnia and Herzegovina,./icons/ba.png
+BB,Barbados,./icons/bb.png
+BD,Bangladesh,./icons/bd.png
+BE,Belgium,./icons/be.png
+BF,Burkina Faso,./icons/bf.png
+BG,Bulgaria,./icons/bg.png
+BH,Bahrain,./icons/bh.png
+BI,Burundi,./icons/bi.png
+BJ,Benin,./icons/bj.png
+BM,Bermuda,./icons/bm.png
+BN,Brunei Darussalam,./icons/bn.png
+BO,Bolivia,./icons/bo.png
+BR,Brazil,./icons/br.png
+BS,Bahamas,./icons/bs.png
+BT,Bhutan,./icons/bt.png
+BV,Bouvet Island,./icons/bv.png
+BW,Botswana,./icons/bw.png
+BY,Belarus,./icons/by.png
+BZ,Belize,./icons/bz.png
+CA,Canada,./icons/ca.png
+CC,Cocos (Keeling) Islands,./icons/cc.png
+CD,The Democratic Republic of the Congo,./icons/cd.png
+CF,Central African Republic,./icons/cf.png
+CG,Congo,./icons/cg.png
+CH,Switzerland,./icons/ch.png
+CI,Cote D'Ivoure,./icons/ci.png
+CK,Cook Islands,./icons/ck.png
+CL,Chile,./icons/cl.png
+CM,Cameroon,./icons/cm.png
+CN,China,./icons/cn.png
+CO,Colombia,./icons/co.png
+CR,Costa Rica,./icons/cr.png
+CS,,./icons/cs.png
+CU,Cuba,./icons/cu.png
+CV,Cape Verde,./icons/cv.png
+CX,Christmas Island,./icons/cx.png
+CY,Cyprus,./icons/cy.png
+CZ,Czech Republic,./icons/cz.png
+DE,Germany,./icons/de.png
+DJ,Djibouti,./icons/dj.png
+DK,Denmark,./icons/dk.png
+DM,Dominica,./icons/dm.png
+DO,Dominican Republic,./icons/do.png
+DZ,,./icons/dz.png
+EC,Ecuador,./icons/ec.png
+EE,Estonia,./icons/ee.png
+EG,Egypt,./icons/eg.png
+EH,Western Sahara,./icons/eh.png
+ER,Eritrea,./icons/er.png
+ES,Spain,./icons/es.png
+ET,Ethiopia,./icons/et.png
+EU,European Union,./icons/eu.png
+FI,Finland,./icons/fi.png
+FJ,Fiji,./icons/fj.png
+FK,Falkland Islands (Malvinas),./icons/fk.png
+FM,Federated States of Micronesia,./icons/fm.png
+FO,Faroe Islands,./icons/fo.png
+FR,France,./icons/fr.png
+GA,Gabon,./icons/ga.png
+GB,United Kingdom,./icons/gb.png
+GD,Grenada,./icons/gd.png
+GE,Georgia,./icons/ge.png
+GF,French Guiana,./icons/gf.png
+GH,Ghana,./icons/gh.png
+GI,Gibraltar,./icons/gi.png
+GL,Greenland,./icons/gl.png
+GM,Gambia,./icons/gm.png
+GN,Guinea,./icons/gn.png
+GP,Guadeloupe,./icons/gp.png
+GQ,Equatorial Guinea,./icons/gq.png
+GR,Greece,./icons/gr.png
+GS,South Georgia and the South Sandwich Islands,./icons/gs.png
+GT,Guatemala,./icons/gt.png
+GU,Guam,./icons/gu.png
+GW,Guinea-Bissau,./icons/gw.png
+GY,Guyana,./icons/gy.png
+HK,Hong Kong,./icons/hk.png
+HM,Heard Island and McDonald Island,./icons/hm.png
+HN,Honduras,./icons/hn.png
+HR,Croatia,./icons/hr.png
+HT,Haiti,./icons/ht.png
+HU,Hungary,./icons/hu.png
+ID,Indonesia,./icons/id.png
+IE,Ireland,./icons/ie.png
+IL,Israel,./icons/il.png
+IN,India,./icons/in.png
+IO,British Indian Ocean Territory,./icons/io.png
+IQ,Iraq,./icons/iq.png
+IR,Islamic Republic of Iran,./icons/ir.png
+IS,Iceland,./icons/is.png
+IT,Italy,./icons/it.png
+JM,Jamaica,./icons/jm.png
+JO,Jordan,./icons/jo.png
+JP,Japan,./icons/jp.png
+KE,Kenya,./icons/ke.png
+KG,Kyrgyzstan,./icons/kg.png
+KH,Cambodia,./icons/kh.png
+KI,Kiribati,./icons/ki.png
+KM,Comoros,./icons/km.png
+KN,Saint Kitts and Nevis,./icons/kn.png
+KP,Democratic People's Republic of Korea,./icons/kp.png
+KR,Republic of Korea,./icons/kr.png
+KW,Kuwait,./icons/kw.png
+KY,Cayman Islands,./icons/ky.png
+KZ,Kazakhstan,./icons/kz.png
+LA,People's Democratic Republic of Lao,./icons/la.png
+LB,Lebanon,./icons/lb.png
+LC,Saint Lucia,./icons/lc.png
+LI,Liechtenstein,./icons/li.png
+LK,Sri Lanka,./icons/lk.png
+LR,Liberia,./icons/lr.png
+LS,Lesotho,./icons/ls.png
+LT,Lithuania,./icons/lt.png
+LU,Luxembourg,./icons/lu.png
+LV,Latvia,./icons/lv.png
+LY,Libyan Arab Jamahiriya,./icons/ly.png
+MA,Morocco,./icons/ma.png
+MC,Monaco,./icons/mc.png
+MD,Moldova,./icons/md.png
+ME,Montenegro,./icons/me.png
+MG,Madagaskar,./icons/mg.png
+MH,Marshall Islands,./icons/mh.png
+MK,Macedonia,./icons/mk.png
+ML,Mali,./icons/ml.png
+MM,Myanmar,./icons/mm.png
+MN,Mongolia,./icons/mn.png
+MO,Macao,./icons/mo.png
+MP,Northern Mariana Islands,./icons/mp.png
+MQ,Martinique,./icons/mq.png
+MR,Mauritania,./icons/mr.png
+MS,Montserrat,./icons/ms.png
+MT,Malta,./icons/mt.png
+MU,Mauritius,./icons/mu.png
+MV,Maldives,./icons/mv.png
+MW,Malawi,./icons/mw.png
+MX,Mexico,./icons/mx.png
+MY,Malaysia,./icons/my.png
+MZ,Mozambique,./icons/mz.png
+NA,Namibia,./icons/na.png
+NC,New Caledonia,./icons/nc.png
+NE,Niger,./icons/ne.png
+NF,Norfolk Island,./icons/nf.png
+NG,Nigeria,./icons/ng.png
+NI,Nicaragua,./icons/ni.png
+NL,Netherlands,./icons/nl.png
+NO,Norway,./icons/no.png
+NP,Nepal,./icons/np.png
+NR,Nauru,./icons/nr.png
+NU,Niue,./icons/nu.png
+NZ,New Zeland,./icons/nz.png
+OM,Oman,./icons/om.png
+PA,Panama,./icons/pa.png
+PE,Peru,./icons/pe.png
+PF,French Polynesia,./icons/pf.png
+PG,Papua New Guinea,./icons/pg.png
+PH,Philippines,./icons/ph.png
+PK,Pakistan,./icons/pk.png
+PL,Poland,./icons/pl.png
+PM,Saint Pierre and Miquelon,./icons/pm.png
+PN,Pitcarin,./icons/pn.png
+PR,Puerto Rico,./icons/pr.png
+PS,Occuped Palestinian Territory,./icons/ps.png
+PT,Portugal,./icons/pt.png
+PW,Palau,./icons/pw.png
+PY,Paraguay,./icons/py.png
+QA,Quatar,./icons/qa.png
+RE,Reunion,./icons/re.png
+RO,Romania,./icons/ro.png
+RS,Serbia,./icons/rs.png
+RU,Russian Federation,./icons/ru.png
+RW,Rwanda,./icons/rw.png
+SA,Saudi Arabia,./icons/sa.png
+SB,Solomon Islands,./icons/sb.png
+SC,Seychelles,./icons/sc.png
+SD,Sudan,./icons/sd.png
+SE,Sweden,./icons/se.png
+SG,Singapore,./icons/sg.png
+SH,Saint Helena,./icons/sh.png
+SI,Slovenia,./icons/si.png
+SJ,Svalbard and Jan Mayen,./icons/sj.png
+SK,Slovakia,./icons/sk.png
+SL,Sierra Leone,./icons/sl.png
+SM,San Marino,./icons/sm.png
+SN,Senegal,./icons/sn.png
+SO,Somalia,./icons/so.png
+SR,Suriname,./icons/sr.png
+ST,Sao Tome and Principe,./icons/st.png
+SV,El Salvador,./icons/sv.png
+SY,Syrian Arab Republic,./icons/sy.png
+SZ,Swaziland,./icons/sz.png
+TC,Turks and Caicos Islands,./icons/tc.png
+TD,Chad,./icons/td.png
+TF,French Southern Territories,./icons/tf.png
+TG,Togo,./icons/tg.png
+TH,Thailand,./icons/th.png
+TJ,Tajikistan,./icons/tj.png
+TK,Tokelau,./icons/tk.png
+TL,Timor-Leste,./icons/tl.png
+TM,Turkmenistan,./icons/tm.png
+TN,Tunisia,./icons/tn.png
+TO,Tonga,./icons/to.png
+TR,Turkey,./icons/tr.png
+TT,Trinidad and Tobago,./icons/tt.png
+TV,Tuvalu,./icons/tv.png
+TW,Taiwan,./icons/tw.png
+TZ,United Republic of Tanzania,./icons/tz.png
+UA,Ukraine,./icons/ua.png
+UG,Uganda,./icons/ug.png
+UM,United States Minor Outlying Islands,./icons/um.png
+US,United States,./icons/us.png
+UY,Uruguay,./icons/uy.png
+UZ,Uzbekistan,./icons/uz.png
+VA,Holy See (Vatican City State),./icons/va.png
+VC,Saint Vincent and the Grenadines,./icons/vc.png
+VE,Venezuela,./icons/ve.png
+VG,Virgin Islands British,./icons/vg.png
+VI,Virgin Islands US,./icons/vi.png
+VN,Viet Nam,./icons/vn.png
+VU,Vanuatu,./icons/vu.png
+WF,Wallis and Futuna,./icons/wf.png
+WS,Samoa,./icons/ws.png
+YE,Yemen,./icons/ye.png
+YT,Mayotte,./icons/yt.png
+ZA,South Africa,./icons/za.png
+ZM,Zambia,./icons/zm.png
+ZW,Zimbabwe,./icons/zw.png
+UN,Unknown,./icons/unknown.png
